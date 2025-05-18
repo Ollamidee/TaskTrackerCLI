@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "description": "Build a task tracker",
+        "status": "in-progress",
+        "createdAt": "2025-05-18T02:39:14.949069",
+        "updatedAt": "2025-05-18T02:43:34.982964"
+    },
+    {
+        "id": 2,
+        "description": "Learn positional argument in CLI",
+        "status": "done",
+        "createdAt": "2025-05-18T02:40:52.600253",
+        "updatedAt": "2025-05-18T02:44:10.750806"
+    },
+    {
+        "id": 3,
+        "description": "Create github repository",
+        "status": "todo",
+        "createdAt": "2025-05-18T02:42:22.364752",
+        "updatedAt": "2025-05-18T02:42:22.364752"
+    }
+]
